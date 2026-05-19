@@ -1,10 +1,3 @@
-日女体対策,&XXX01 2026.4.11 春季リーグ 東海大 vs 日女体.dvw,nEFHs-h_Iy4
-日女体対策,&XXX02 2026.4.12 春季リーグ 順天堂 vs 日女体.dvw,ghI5oVUeXM0
-日女体対策,&XXX03 2026.4.18 春季リーグ 日体大 vs 日女体.dvw,dIuamOII5ms
-日女体対策,&XXX07 2026.5.2 春季リーグ 桜美林 vs 日女体.dvw,pLsDa_iZAsI
-日女体対策,&XXX08 2026.5.3 春季リーグ 日女体 vs 日本大.dvw,SKhf7hyZBLg
-日女体対策,&XXX09 2026.5.9 春季リーグ 日女体 vs 敬愛大.dvw,RGXheTJuP6s
-日女体対策,&XXX10 2026.5.10 春季リーグ 日女体 vs 国士舘.dvw,ytpwGqtiujQ
 春リーグ,&XXX01 2026.4.11 春季リーグ 青学 vs 筑波大.dvw,OlQGEIDIlC4
 春リーグ,&XXX02 2026.4.12 春季リーグ 青学 vs 明海大.dvw,37aKT0yEOh0
 春リーグ,&XXX03 2026.4.18 春季リーグ 青学 vs 東女体.dvw,sfF4gdFojEw
@@ -12,3 +5,7 @@
 春リーグ,&XXX05 2026.4.25 春季リーグ 青学 vs 順天堂.dvw,ujx1P10GhJQ
 春リーグ,&XXX06 2026.4.26 春季リーグ 青学 vs 日体大.dvw,L8lq0dvZkEQ
 春リーグ,&XXX07 2026.5.2 春季リーグ 青学 vs 日本大.dvw,VusFUSBoTvo
+春リーグ,&XXX08 2026.5.3 春季リーグ 青学 vs 敬愛大.dvw,7gsimJGUGWo
+春リーグ,&XXX09 2026.5.9 春季リーグ 青学 vs 国士舘.dvw,XY1fIkIqAw8
+春リーグ,&XXX10 2026.5.10 春季リーグ 青学 vs 桜美林.dvw,DldO4oxH3is
+春リーグ,&XXX11 2026.5.17 春季リーグ 青学 vs 日女体.dvw,3LCLFUeoWeA
