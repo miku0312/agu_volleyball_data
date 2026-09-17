@@ -3,6 +3,7 @@
 東女体対策,&XXX02 2026.9.13 秋季リーグ 東女体 vs 日女体.dvw,mrIlf_PyM5Q
 東女体対策,&XXX01 2026.9.12 秋季リーグ 東女体 vs 嘉悦大.dvw,Ocm56yyXKeE
 順天堂対策,&XXX01 2026.9.12 秋季リーグ 順天堂 vs 国士舘.dvw,tet3QxLjUM4
+順天堂対策,&XXX02 2026.9.13 秋季リーグ 順天堂 vs 松蔭大.dvw,BeD83vK5LmM
 順天堂対策,&XXX00 2026.8.25 練習試合 順天堂 vs 埼玉県選抜（国スポ）.dvw,J0rItAfLfhA
 順天堂対策,&国スポ20260829 C3 埼玉-千葉.dvw,OiVAKcZNDO8
 順天堂対策,&XXX05 2026.4.25 春季リーグ 青学 vs 順天堂.dvw,ujx1P10GhJQ
