@@ -7,14 +7,16 @@
 順天堂対策,&XXX01 2026.9.12 秋季リーグ 順天堂 vs 国士舘.dvw,tet3QxLjUM4
 順天堂対策,&XXX02 2026.9.13 秋季リーグ 順天堂 vs 松蔭大.dvw,BeD83vK5LmM
 順天堂対策,&XXX00 2026.8.25 練習試合 順天堂 vs 埼玉県選抜（国スポ）.dvw,J0rItAfLfhA
-順天堂対策,&国スポ20260829 C3 埼玉-千葉.dvw,OiVAKcZNDO8
+順天堂対策,&国スポ20260829 C3 埼玉-千葉.dvw,OiVAKcZNDO8,
 順天堂対策,&XXX05 2026.4.25 春季リーグ 青学 vs 順天堂.dvw,ujx1P10GhJQ
 順天堂対策,&XXX09 2026.5.9 春季リーグ 筑波大 vs 順天堂.dvw,Jga8saRArYY
+順天堂対策,&XXX00 2026.9.19 天皇杯関東予選 筑波大 vs 順天堂.dvw
 筑波大対策,&XXX02 2026.9.13 秋季リーグ 筑波大 vs 嘉悦大.dvw,QMMnkqhfvXQ
 筑波大対策,&XXX01 2026.9.12 秋季リーグ 筑波大 vs 松蔭大.dvw,a3lHuBkgQqE
 筑波大対策,&XXX00 2026.6.20 東日本インカレ 日体大 vs 筑波大.dvw,Eqnplsj-I00
 筑波大対策,&XXX03 2026.6.19 東日本インカレ 青学 vs 筑波大.dvw,pnYnUPAQHxA
 筑波大対策,&XXX02 2026.6.18 東日本インカレ 筑波大 vs 敬愛大.dvw,hh9zKJhKDGQ
+筑波大対策,&XXX00 2026.9.19 天皇杯関東予選 筑波大 vs 順天堂.dvw,
 青学,&XXX01 2026.9.12 秋季リーグ 青学 vs 日体大.dvw,pOMN-XOJ0Ms
 青学,&XXX02 2026.9.13 秋季リーグ 青学 vs 桜美林.dvw,ylQxm9vzgP0
 青学,&XXX00 2026.9.19 天皇杯関東予選 青学 vs 順天堂.dvw,p6CU-g-p0bo
