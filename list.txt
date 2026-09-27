@@ -3,10 +3,10 @@
 東海大対策,&XXX00 2026.9.19 天皇杯関東予選 東海大 vs 山梨中央銀行.dvw,zfasKtk0rhI
 国士舘対策,&XXX01 2026.9.12 秋季リーグ 順天堂 vs 国士舘.dvw,tet3QxLjUM4
 松蔭大対策,&XXX02 2026.9.13 秋季リーグ 順天堂 vs 松蔭大.dvw,BeD83vK5LmM
-順天堂対策,&XXX00 2026.9.19 天皇杯関東予選 筑波大 vs 順天堂.dvw.lLRAyE7vcG4
-順天堂対策,&XXX00 2026.9.22 秋季リーグ 順天堂 vs 日女体.dvw,eY_eRYmJ-wI
-嘉悦大対策,&XXX02 2026.9.13 秋季リーグ 筑波大 vs 嘉悦大.dvw,QMMnkqhfvXQ
+松蔭大対策,&XXX00 2026.9.26 秋季リーグ 東海大 vs 松蔭大.dvw,1GbTY_lpAX0
 松蔭大対策,&XXX01 2026.9.12 秋季リーグ 筑波大 vs 松蔭大.dvw,a3lHuBkgQqE
+日女体対策,&XXX00 2026.9.22 秋季リーグ 順天堂 vs 日女体.dvw,eY_eRYmJ-wI
+嘉悦大対策,&XXX02 2026.9.13 秋季リーグ 筑波大 vs 嘉悦大.dvw,QMMnkqhfvXQ
 日本大対策,&XXX00 2026.9.22 秋季リーグ 筑波大 vs 日本大.dvw,HfmR1TmH12A
 青学,&XXX01 2026.9.12 秋季リーグ 青学 vs 日体大.dvw,pOMN-XOJ0Ms
 青学,&XXX02 2026.9.13 秋季リーグ 青学 vs 桜美林.dvw,ylQxm9vzgP0
