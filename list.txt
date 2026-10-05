@@ -12,6 +12,8 @@
 東海大対策,&XXX00 2026.9.22 秋季リーグ 東海大 vs 国士舘.dvw,voqy9YbppNU
 東海大対策,&XXX00 2026.9.26 秋季リーグ 東海大 vs 松蔭大.dvw,1GbTY_lpAX0
 東海大対策,&XXX00 2026.9.27 秋季リーグ 東海大 vs 嘉悦大.dvw,RGed-mDIfss
+東海大対策,&XXX00 2026.10.3 秋季リーグ 東海大 vs 桜美林.dvw,Z8IFNMmTUBo
+東海大対策,&XXX00 2026.10.4 秋季リーグ 東海大 vs 東女体.dvw,RAQz8e-7Q0U
 国士舘対策,&XXX01 2026.9.12 秋季リーグ 順天堂 vs 国士舘.dvw,tet3QxLjUM4
 国士舘対策,&XXX00 2026.9.22 秋季リーグ 東海大 vs 国士舘.dvw,voqy9YbppNU
 日本大対策,&XXX00 2026.9.22 秋季リーグ 筑波大 vs 日本大.dvw,HfmR1TmH12A
